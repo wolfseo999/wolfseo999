@@ -1,7 +1,7 @@
 # 🚀 Senior Backend Developer | [SeoDongJoo/Wolfseo999]
 
 10년 차 개발자로서 효율적인 아키텍처 설계와 비즈니스 문제 해결에 집중합니다. 
-Go, Java, Python, PHP 등 다양한 언어를 활용해 견고한 백엔드 시스템을 구축해왔습니다.
+다양한 언어를 활용해 견고한 시스템을 구축해왔습니다.
 
 ---
 
